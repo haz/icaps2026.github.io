@@ -6,7 +6,8 @@ draft: false
 
 # Important Dates and Events
 
-All important dates will be announced here.
+All important dates will be announced here. The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time 
+anywhere in the world.
 
 ## 2025
 - **Fall 2025**: Submission site opens
