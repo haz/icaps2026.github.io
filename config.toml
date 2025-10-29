@@ -141,18 +141,18 @@ languageCode = 'en_US'
   identifier = "calls"
   name = "Calls"
   weight = 4000
-[[menu.main]]
-  identifier = "first_call"
-  name = "First Call for Papers"
-  url = "/calls/first_call"
-  parent = "calls"
-  weight = 10
 # [[menu.main]]
-#   identifier = "tools_papers_call"
-#   name = "Tools Papers"
-#   url = "/calls/tools_papers_call"
-#   parent="calls"
+#   identifier = "first_call"
+#   name = "First Call for Papers"
+#   url = "/calls/first_call"
+#   parent = "calls"
 #   weight = 10
+[[menu.main]]
+  identifier = "cfp"
+  name = "Call for Papers"
+  url = "/calls/cfp"
+  parent="calls"
+  weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
