@@ -90,4 +90,4 @@ Following the ICAPS tradition, we will award the best paper and best student pap
 - Wheeler Ruml, University of New Hampshire, USA
 - Sandhya Saisubramanian, Oregon State University, USA
 
-<!-- For inquiries contact: program@icaps2024.com -->
+For inquiries contact: icaps26pcchairs@gmail.com
