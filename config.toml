@@ -441,11 +441,11 @@ languageCode = 'en_US'
     url = "/organisation/conference_chairs"
     parent = "organisation"
     weight = 100
-  # [[menu.main]]
-  #   identifier = "paper_classification_system"
-  #   name = "Paper Classification System"
-  #   url = "/organisation/paper_classification_system"
-  #   parent = "organisation"
+  [[menu.main]]
+    identifier = "reviewing_info"
+    name = "Reviewing Information"
+    url = "/organisation/reviewing_info"
+    parent = "organisation"
   # [[menu.main]]
   #   identifier = "roles"
   #   name = "Roles and Guidelines"
