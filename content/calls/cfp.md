@@ -14,7 +14,7 @@ In addition to the main track, ICAPS-26 will feature four special tracks.  Each 
 - Learning for Planning & Scheduling: Blai Bonet (Universidad Simón Bolívar, Venezuela),  Akshat Kumar (Singapore Management University, Singapore)
 - Planning & Scheduling in Robotics: Federico Pecora (Amazon Robotics, USA), Alan Fern (Oregon State University, USA)
 
-The following call and submission instructions pertain to papers submitted to the main track and all special tracks. Specific information about each special track and specific criteria can be found on the Special Tracks Page.
+The following call and submission instructions pertain to papers submitted to the main track and all special tracks. Specific information about each special track and specific criteria can be found on the [Special Tracks Page](special_tracks).
 
 ## Scope
 ICAPS-26 welcomes paper submissions on all aspects of automated planning and scheduling.  Planning and scheduling are to be interpreted broadly, to encompass a variety of decision-making and optimization problems involving action selection and timing.  This includes domain modeling, plan and schedule synthesis, execution and monitoring, failure diagnosis, model repair, and associated learning, representation, and reasoning problems.  ICAPS welcomes work on both deterministic and stochastic sequential decision-making, both with and without full observability, and both with and without factored state representations. 
