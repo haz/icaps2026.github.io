@@ -441,11 +441,11 @@ languageCode = 'en_US'
     url = "/organisation/conference_chairs"
     parent = "organisation"
     weight = 100
-  [[menu.main]]
-    identifier = "reviewing"
-    name = "Reviewing Guidelines"
-    url = "/organisation/reviewing"
-    parent = "organisation"
+  # [[menu.main]]
+  #   identifier = "reviewing"
+  #   name = "Reviewing Guidelines"
+  #   url = "/organisation/reviewing"
+  #   parent = "organisation"
   # [[menu.main]]
   #   identifier = "roles"
   #   name = "Roles and Guidelines"
