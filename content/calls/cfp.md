@@ -8,7 +8,7 @@ draft: false
 
 The International Conference on Automated Planning and Scheduling ICAPS is the premier forum for new research results on the theory and applications of planning and scheduling technology. The 36th edition of the ICAPS conference series will be held in Dublin, Ireland, from June 27 to July 2, 2026. 
 
-In addition to the main track, ICAPS-26 will feature four special tracks.  Each track is chaired by two prominent researchers in the field. Specialised review criteria will be applied as appropriate and papers will be assigned reviewers members with specialised knowledge in the appropriate area:
+In addition to the main track, ICAPS-26 will feature four special tracks.  Each track is chaired by two prominent researchers in the field. Specialised review criteria will be applied as appropriate and papers will be assigned reviewers with specialised knowledge in the appropriate area:
 - Applications of Planning & Scheduling: Jeremy Frank (NASA, USA), Neil Yorke-Smith (TU Delft, Netherlands)
 - Human-aware Planning & Scheduling: William Yeoh (Washington University in St Louis, USA), Reuth Mirsky (Tufts, USA)
 - Learning for Planning & Scheduling: Blai Bonet (Universidad Simón Bolívar, Venezuela),  Akshat Kumar (Singapore Management University, Singapore)
