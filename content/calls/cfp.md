@@ -63,7 +63,7 @@ The format of ICAPS-26 will be in-person. As such, we expect at least one author
 
 
 ## Submission Instructions
-All submissions will be made electronically via EasyChair. Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. We use the AAAI 2026 author kit that can be found [following this link](https://aaai.org/authorkit26-1/).
+All submissions will be made electronically via EasyChair (link to be posted here shortly). Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. We use the AAAI 2026 author kit that can be found [following this link](https://aaai.org/authorkit26-1/).
 
 Authors can submit supplementary material (videos, technical proofs, additional experimental results) in addition to the PDF paper they submit. Please ensure the supporting material is anonymised unless stated otherwise for specific submission types. Papers should be self-contained; reviewers are encouraged but not obligated to consider supporting material in their decisions, with the exception of tools papers.
 
