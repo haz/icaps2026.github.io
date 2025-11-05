@@ -142,9 +142,15 @@ languageCode = 'en_US'
   name = "Calls"
   weight = 4000
 [[menu.main]]
-  identifier = "main_track"
-  name = "First Call for Papers"
-  url = "/calls/main_track"
+  identifier = "cfp"
+  name = "Call for Papers"
+  url = "/calls/cfp"
+  parent = "calls"
+  weight = 10
+[[menu.main]]
+  identifier = "special_tracks"
+  name = "Special Tracks"
+  url = "/calls/special_tracks"
   parent = "calls"
   weight = 10
 # [[menu.main]]
