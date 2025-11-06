@@ -484,6 +484,3 @@ languageCode = 'en_US'
 
 [markup.goldmark.renderer]
   unsafe = true
-
-
-

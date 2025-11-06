@@ -37,7 +37,6 @@ Contributions are welcome in each of the following categories:
 -  Modelling papers, which describe new representations of planning and scheduling problems and their solutions. Examples include new mathematical frameworks for existing problems, original descriptions of emerging problems and refinements of existing frameworks for knowledge representation of actions, goals, states, or other rigorously defined concepts.
 - Position papers, which contribute thoughtful critiques or bold new perspectives of the field. Examples include meta-analysis of research trends, descriptions of new challenge problems suitable for planning and scheduling, historical perspectives and analysis of the field and technical discussions of various implementation techniques.
 - Tools papers, which describe systems that are of use and of interest to the planning and scheduling community, and which are built using novel algorithmic and engineering techniques. Examples include: integrated planning systems, model checkers and synthesis tools, libraries to construct, manage and transform representations of planning and scheduling problems, applications for visualising, benchmarking and comparing planners or other types of tools, etc.
-- Survey papers: which contribute with well-structured and informative surveys papers in key areas of automated planning, offering thoughtful analysis and comparative insights.
 
 Papers that do not address problems related to automated planning or scheduling will be rejected without review.  Where the relationship of the paper to planning and scheduling is not immediately obvious, authors should make this clear in the abstract and introduction of their paper.
 
@@ -49,9 +48,9 @@ The reference timezone for all deadlines is UTC-12. That is, the deadline has no
 - Author notification: 20th February 2026
 
 ## Author Guidelines
-We welcome submissions of both long (8 pages AAAI style plus one page of references) and short (4 pages plus one page of references) papers. Whether the paper is long or short must be indicated at submission time.  All papers submitted to ICAPS-26 must be in AAAI Format.
+We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time.  All papers submitted to ICAPS-26 must be in AAAI Format (see below).
 
-Over-length papers will be rejected without review. A paper is over-length whenever content other than the ethical impacts statement (see below) appears on page 9 (resp. Page 5) of long (resp. short) papers.
+Over-length papers will be rejected without review. A paper is over-length whenever content other than the references and the optional ethical impacts statement appears on page 9 (resp. Page 5) of long (resp. short) papers.
 
 All papers that satisfy length and formatting requirements will be reviewed against standard criteria such as relevance, originality, significance, clarity, and soundness. Submissions are expected to meet the high standards of publication expected by ICAPS. Please refer to the [reviewing guidelines](organisation/reviewing/) for more details.
 
