@@ -24,7 +24,7 @@ Topics of interest include, but are not limited to:
 
 ## Track: Industry and Applications (Chairs: Jeremy Frank and Neil Yorke-Smith)
 
-The Industry and Applications track (formerly Novel Applications track) invites papers that demonstrate how planning and scheduling methods are applied to solve problems in industry and commerce, government, or emerging societal contexts. This track aims  to bring scientific results from planning and scheduling to practice, and also aimsaim to identify scientific challenges by analyzing the limitations of current results to tackle real-world problems. We solicit submissions and participation from the private and public sectors, as well as from academics working on applications. We encourage submissions to provide rigorous evaluation using real-world data, and if applicable, to discuss the deployment of the methods and systems.
+The Industry and Applications track (formerly Novel Applications track) invites papers that demonstrate how planning and scheduling methods are applied to solve problems in industry and commerce, government, or emerging societal contexts. This track aims  to bring scientific results from planning and scheduling to practice, and also aims to identify scientific challenges by analyzing the limitations of current results to tackle real-world problems. We solicit submissions and participation from the private and public sectors, as well as from academics working on applications. We encourage submissions to provide rigorous evaluation using real-world data, and if applicable, to discuss the deployment of the methods and systems.
  
 Topics of interest include, but not limited to:
 - Description and modelling of novel application domains
