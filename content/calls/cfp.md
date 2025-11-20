@@ -52,7 +52,7 @@ We welcome submissions of both long (8 pages plus additional page(s) for referen
 
 Over-length papers will be rejected without review. A paper is over-length whenever content other than the references and the optional ethical impacts statement appears on page 9 (resp. Page 5) of long (resp. short) papers.
 
-All papers that satisfy length and formatting requirements will be reviewed against standard criteria such as relevance, originality, significance, clarity, and soundness. Submissions are expected to meet the high standards of publication expected by ICAPS. Please refer to the [reviewing guidelines](organisation/reviewing/) for more details.
+All reviewed papers, whether they are in the long or short category, will be evaluated against the same criteria and are expected to meet the same high standards set by ICAPS. Short papers may be of narrower scope, for example, by addressing a highly specific issue or proposing or evaluating a small, yet important, extension of previous work or new idea. Please refer to the [reviewing guidelines](organisation/reviewing/) for more details.
 
 All accepted papers will be published in the proceedings and presented at the conference in either oral and/or poster format.
 
