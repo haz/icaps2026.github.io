@@ -54,6 +54,22 @@
             ]
         },
         {
+            "position": "Conflict of Interest Track Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Sara Bernardini",
+                    "institution": "University of Oxford",
+                    "country": "Great Britain"
+                },
+                {
+                    "name": "Roni Stern",
+                    "institution": "Ben Gurion University",
+                    "country": "Israel"
+                }
+            ]
+        },
+        {
             "position": "Human-aware Planning & Scheduling Track Chairs",
             "email": "",
             "people": [
