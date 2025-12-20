@@ -2,8 +2,10 @@
 
 document.addEventListener("DOMContentLoaded", function() {
     const images = [
-        "/img/banner_crop.jpg",
-        "/img/banner_crop2.jpg",
+        "/img/banner_1.jpg",
+        "/img/banner_2.jpg",
+		"/img/banner_3.jpg",
+		"/img/banner_4.jpg",
     ];
 
     const randomImage = images[Math.floor(Math.random() * images.length)];
