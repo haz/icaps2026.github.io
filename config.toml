@@ -71,6 +71,9 @@ languageCode = 'en_US'
    url = "https://icaps26-dublin-ss.github.io/ICAPS-2026-Summer-School/"
    parent = "students"
    weight = 100
+   [menu.main.params]
+      target = "_blank"
+      rel = "noopener noreferrer"
 #  [[menu.main]]
 #    identifier = "dc"
 #    name = "Doctoral Consortium"
