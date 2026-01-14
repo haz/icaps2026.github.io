@@ -163,41 +163,17 @@ languageCode = 'en_US'
   parent = "calls"
   weight = 20
 # [[menu.main]]
-#   identifier = "tools_papers_call"
-#   name = "Tools Papers"
-#   url = "/calls/tools_papers_call"
-#   parent="calls"
-#   weight = 10
-#  [[menu.main]]
-#    identifier = "application_track"
-#    name = "Application Track"
-#    url = "/calls/application_track"
-#    parent = "calls"
-#    weight = 20
-#  [[menu.main]]
-#    identifier = "learning_track"
-#    name = "Learning Track"
-#    url = "/calls/learning_track"
-#    parent = "calls"
-#    weight = 30
-#  [[menu.main]]
-#    identifier = "robotics_track"
-#    name = "Robotics Track"
-#    url = "/calls/robotics_track"
-#    parent = "calls"
-#    weight = 40
-# [[menu.main]]
 #   identifier = "previously_published_papers"
 #   name = "Previously Published Papers Track"
 #   url = "/calls/previously_published_papers"
 #   parent = "calls"
 #   weight = 45
-# [[menu.main]]
-#   identifier = "workshop_call"
-#   name = "Call for Workshop Proposals"
-#   url = "/calls/workshop_call"
-#   parent = "calls"
-#   weight = 50
+[[menu.main]]
+  identifier = "workshop_call"
+  name = "Call for Workshop Proposals"
+  url = "/calls/workshops"
+  parent = "calls"
+  weight = 15
 # [[menu.main]]
 #   identifier = "tutorial_call"
 #   name = "Call for Tutorial Proposals"

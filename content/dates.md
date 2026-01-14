@@ -16,10 +16,9 @@ anywhere in the world.
 
 ## 2026
 - **February 2-4, 2026:** Author response period
+- **February 8, 2026**: Workshop proposals due
 - **February 20, 2026:** Notification of acceptance
-<!-- 
-- February 5 to February 28, 2025 - Discussion phase
-- **~~March 10~~ March 17, 2025** - Workshop proposals due
+<!--- February 5 to February 28, 2025 - Discussion phase
 - March 31, 2025 - Workshop acceptance notification
 - 15 April 2025 - Workshops materials online
 - **27 April 2025** - Tutorial proposals due
