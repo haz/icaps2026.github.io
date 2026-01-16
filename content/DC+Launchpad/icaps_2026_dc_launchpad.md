@@ -36,7 +36,6 @@ Both events are open to all registered student attendees of ICAPS 2026; particip
 ## Key Dates and Deadlines
 
 Exact dates and times will be announced on the ICAPS 2026 website. All deadlines will use **UTC-12** as the reference timezone (a deadline has not passed as long as it is still the stated date anywhere in the world).
-
 Planned deadlines include:
 
 - DC Mentoring Program application deadline: March 2, 2026  
@@ -79,7 +78,7 @@ Students do not need to be accepted into the Mentoring Program to attend the DC,
 
 ### Application Procedure for the DC Mentoring Program
 
-To apply for the DC Mentoring Program, students will be asked to submit a **single PDF** containing:
+To apply for the DC Mentoring Program, students will be asked to submit a **single PDF** file containing:
 
 - A **dissertation abstract** (up to 4 pages) summarizing the research problem, motivation, approach, results so far, and a tentative research plan and timeline.  
 - A **Curriculum Vitae (CV)**, including current affiliation, advisor’s name, year in the PhD program, previous degrees, and relevant publications or experience.  
@@ -128,7 +127,7 @@ The LaunchPad Workshop will be a **full-day, in-person** event co-located with t
 
 ### Application Procedure for LaunchPad
 
-To be considered for the LaunchPad Workshop, applicants will be asked to submit:
+To be considered for the LaunchPad Workshop, applicants will be asked to submit a **single PDF** file containing:
 
 - **Personal Statement** (up to 2 pages) describing background, motivation for pursuing research in automated planning and scheduling, longer-term goals, and what they hope to gain from the workshop.  
 - **Research Statement** (up to 2 pages) describing a problem or research direction of interest, its importance and feasibility, any preliminary work, and related work.  
@@ -183,15 +182,14 @@ You will be asked for:
 You will indicate whether you are applying to:
 
 - the **DC Mentoring Program**,  
-- the **LaunchPad Workshop**, or  
-- **both** (if applicable).  
+- the **LaunchPad Workshop**
 
 #### Uploads of Application Material
 
 The form will ask you to upload the required documents as **PDF** files:
 
-- For **DC applicants**: one or more PDFs containing the dissertation abstract, CV, enrollment letter, and any optional material as described in the DC section.  
-- For **LaunchPad applicants**: one or more PDFs containing the personal statement, research statement, CV, and optional advisor letter, as described in the LaunchPad section.
+- For **DC applicants**: one PDF file containing the dissertation abstract, CV, enrollment letter, and any optional material as described in the DC section.  
+- For **LaunchPad applicants**: one PDF file containing the personal statement, research statement, CV, and optional advisor letter, as described in the LaunchPad section.
 
 The form clearly labels each upload field so you can verify that every required document has been provided.
 
