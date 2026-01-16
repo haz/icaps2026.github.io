@@ -49,14 +49,13 @@ Planned deadlines include:
 
 ## Organizing Committee (ICAPS 2026 DC & LaunchPad)
 
-- Jane  
-- Kiam  
-- Ivan Serina  
 - Malte Helmert  
+- Jane Kiam  
+- Ivan Serina  
 
 ---
 
-## Doctoral Consortium (DC)
+# Doctoral Consortium (DC)
 
 The goal of the Doctoral Consortium is to:
 
@@ -103,7 +102,7 @@ We are exploring options to offer **partial support** for travel and/or registra
 
 ---
 
-## LaunchPad Workshop
+# LaunchPad Workshop
 
 ### What is LaunchPad?
 
@@ -157,7 +156,7 @@ The DC and LaunchPad events are designed to complement each other. LaunchPad par
 
 ---
 
-## How to Apply
+# How to Apply
 
 All applications for the Doctoral Consortium (DC) Mentoring Program and the LaunchPad Workshop must be submitted through the online application form:
 
