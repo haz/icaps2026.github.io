@@ -39,11 +39,11 @@ Exact dates and times will be announced on the ICAPS 2026 website. All deadlines
 
 Planned deadlines include:
 
-- DC Mentoring Program application deadline: **TBA**  
+- DC Mentoring Program application deadline: March 2, 2026  
 - DC Mentoring Program notification: **TBA**  
-- LaunchPad Workshop application deadline: **TBA**  
+- LaunchPad Workshop application deadline: March 2, 2026
 - LaunchPad Workshop notification: **TBA**  
-- DC & LaunchPad day at ICAPS 2026: during the conference (**exact date TBA**)
+- DC & LaunchPad day at ICAPS 2026: June 27, 2026
 
 ---
 
@@ -53,6 +53,7 @@ Planned deadlines include:
 - Jane Kiam  
 - Ivan Serina  
 
+---
 ---
 
 # Doctoral Consortium (DC)
@@ -100,6 +101,7 @@ If the number of applications exceeds our capacity, selection will be based on:
 
 We are exploring options to offer **partial support** for travel and/or registration fees for some DC participants. If such funding becomes available, the DC chairs will directly contact selected students with further details.
 
+---
 ---
 
 # LaunchPad Workshop
@@ -154,6 +156,7 @@ We are actively looking for funding to provide **partial support** for travel an
 
 The DC and LaunchPad events are designed to complement each other. LaunchPad participants will have opportunities to attend selected DC sessions and see how PhD research is presented and discussed. Considering the number of participants, DC and LaunchPad will share joint activities and social events, including meetings with mentors, to foster interaction across different career stages.
 
+---
 ---
 
 # How to Apply
