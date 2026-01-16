@@ -155,63 +155,9 @@ We are actively looking for funding to provide **partial support** for travel an
 
 The DC and LaunchPad events are designed to complement each other. LaunchPad participants will have opportunities to attend selected DC sessions and see how PhD research is presented and discussed. Considering the number of participants, DC and LaunchPad will share joint activities and social events, including meetings with mentors, to foster interaction across different career stages.
 
----
----
-
-# How to Apply
+## Submission form
 
 All applications for the Doctoral Consortium (DC) Mentoring Program and the LaunchPad Workshop must be submitted through the online application form:
 
-**Application form:** [link to be announced] <!-- e.g., EasyChair link -->
+**Application form:** [https://docs.google.com/forms/d/e/1FAIpQLSf9WGoLmnpRu_vD6ZV9HV57mCWwOdM6pxw2vLMX6dqf9bOWvw/viewform?usp=dialog] <!-- e.g., EasyChair link -->
 
-### Using the Application Form
-
-The form guides you through all steps required to apply. It is organized into the following parts:
-
-#### Personal and Academic Information
-
-You will be asked for:
-
-- Name and contact details  
-- Institution, country, and current program (e.g., PhD / BSc / MSc)  
-- Expected graduation date  
-- Name(s) of advisor(s), if applicable  
-
-#### Program Selection
-
-You will indicate whether you are applying to:
-
-- the **DC Mentoring Program**,  
-- the **LaunchPad Workshop**
-
-#### Uploads of Application Material
-
-The form will ask you to upload the required documents as **PDF** files:
-
-- For **DC applicants**: one PDF file containing the dissertation abstract, CV, enrollment letter, and any optional material as described in the DC section.  
-- For **LaunchPad applicants**: one PDF file containing the personal statement, research statement, CV, and optional advisor letter, as described in the LaunchPad section.
-
-The form clearly labels each upload field so you can verify that every required document has been provided.
-
-#### Funding and Logistics Information (Optional)
-
-You may optionally:
-
-- Indicate whether you would like to be considered for travel/registration support (if available).  
-- Provide information related to visa timelines or other constraints that the chairs should be aware of.
-
-#### Mentoring Preferences (Optional)
-
-You can optionally:
-
-- Suggest research areas or topics for which you would like to be matched with a mentor.  
-- List potential mentors or research groups you are particularly interested in, if any.
-
-#### Consent and Submission
-
-Before submitting, you will:
-
-- Confirm that all information is accurate and that the uploaded documents are the final versions of your application.  
-- Consent to the use of your data by the DC & LaunchPad organizers for the purpose of reviewing applications, matching mentors, and allocating possible funding.
-
-After you click **Submit**, your application will be recorded and made available to the organizing committee and, where appropriate, to assigned mentors and reviewers.
