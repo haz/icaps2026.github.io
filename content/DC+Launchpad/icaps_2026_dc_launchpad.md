@@ -159,5 +159,5 @@ The DC and LaunchPad events are designed to complement each other. LaunchPad par
 
 All applications for the Doctoral Consortium (DC) Mentoring Program and the LaunchPad Workshop must be submitted through the online application form:
 
-**Application form:** [https://docs.google.com/forms/d/e/1FAIpQLSf9WGoLmnpRu_vD6ZV9HV57mCWwOdM6pxw2vLMX6dqf9bOWvw/viewform?usp=dialog] <!-- e.g., EasyChair link -->
+[**Application form:**](https://docs.google.com/forms/d/e/1FAIpQLSf9WGoLmnpRu_vD6ZV9HV57mCWwOdM6pxw2vLMX6dqf9bOWvw/viewform?usp=dialog
 
