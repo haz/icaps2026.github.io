@@ -77,7 +77,7 @@ languageCode = 'en_US'
  [[menu.main]]
    identifier = "DC+Launchpad"
    name = "Doctoral Consortium & Launchpad"
-   url = "content/DC+Launchpad/icaps_2026_dc_launchpad.md"
+   url = "/DC+Launchpad/icaps_2026_dc_launchpad.md"
    parent = "students"
    weight = 100
    [menu.main.params]
@@ -171,6 +171,18 @@ languageCode = 'en_US'
   url = "/calls/shadow_pc"
   parent = "calls"
   weight = 20
+[[menu.main]]
+  identifier = "call_DC"
+  name = "Call for Doctoral Consortium"
+  url = "/calls/dc_call"
+  parent = "calls"
+  weight = 30
+[[menu.main]]
+  identifier = "call_launchpad"
+  name = "Call for LaunchPad Workshop"
+  url = "/calls/launchpad_call"
+  parent = "calls"
+  weight = 40    
 # [[menu.main]]
 #   identifier = "tools_papers_call"
 #   name = "Tools Papers"
