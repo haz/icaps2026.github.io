@@ -44,7 +44,8 @@ No prior publications are required. We welcome applicants with strong motivation
 
 ## Application Procedure for LaunchPad Workshop Participation
 
-To be considered for the LaunchPad Workshop, applicants are asked to submit the following documents:
+To be considered for the LaunchPad Workshop, applicants are asked to submit
+ a single PDF file containing the following items (in order)
 
 1. **Personal Statement (up to 2 pages)**  
    A personal statement describing your background and motivation for pursuing a research career in automated planning and scheduling. You may wish to address why you are interested in AI planning and scheduling and your longer-term goals, what you hope to gain from participating in the ICAPS 2026 LaunchPad Workshop, and any previous experience with research projects (in any area), particularly those related to AI or planning, if applicable.
