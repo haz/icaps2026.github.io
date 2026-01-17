@@ -155,6 +155,8 @@ We are actively looking for funding to provide **partial support** for travel an
 
 The DC and LaunchPad events are designed to complement each other. LaunchPad participants will have opportunities to attend selected DC sessions and see how PhD research is presented and discussed. Considering the number of participants, DC and LaunchPad will share joint activities and social events, including meetings with mentors, to foster interaction across different career stages.
 
+---
+
 ## Submission form
 
 All applications for the Doctoral Consortium (DC) Mentoring Program and the LaunchPad Workshop must be submitted through the online application form:
