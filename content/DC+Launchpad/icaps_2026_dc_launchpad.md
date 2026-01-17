@@ -150,6 +150,7 @@ If we receive more applications than we can accommodate, selection will consider
 We are actively looking for funding to provide **partial support** for travel and/or registration fees for some LaunchPad participants. If such funding becomes available, the LaunchPad chairs will contact selected students directly.
 
 ---
+---
 
 ## Joint Mentoring and Networking
 
