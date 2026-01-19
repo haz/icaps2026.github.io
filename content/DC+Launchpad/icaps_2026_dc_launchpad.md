@@ -48,9 +48,10 @@ Planned deadlines include:
 
 ## Organizing Committee (ICAPS 2026 DC & LaunchPad)
 
-- Malte Helmert  
-- Jane Kiam  
-- Ivan Serina  
+
+- Malte Helmert – malte[dot]helmert[at]unibas[dot]ch  
+- Jane Kiam – jane[dot]kiam[at]unibw[dot]de  
+- Ivan Serina – ivan[dot]serina[at]unibs[dot]it  
 
 ---
 ---
@@ -86,6 +87,9 @@ To apply for the DC Mentoring Program, students will be asked to submit a **sing
 - **Optional material**, such as an exemplary publication and a list of potential mentors.
 
 Please prepare the dissertation abstract using the **AAAI/ICAPS paper format** (AAAI author kit). All documents must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
+
+For more complete information about the application procedure, please refer to this link: [content/calls/dc_call]
+
 
 ### Review and Selection (DC Mentoring Program)
 
@@ -135,6 +139,9 @@ To be considered for the LaunchPad Workshop, applicants will be asked to submit 
 - **Optional advisor letter** indicating whether a faculty member can help support travel and lodging.
 
 Please prepare the personal statement and research statement using the **AAAI/ICAPS paper format**. All materials must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
+
+For more complete information about the application procedure, please refer to this link: [content/calls/launchpad_call]
+
 
 ### Review and Selection (LaunchPad)
 
