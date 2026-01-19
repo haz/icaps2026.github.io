@@ -88,7 +88,7 @@ To apply for the DC Mentoring Program, students will be asked to submit a **sing
 
 Please prepare the dissertation abstract using the **AAAI/ICAPS paper format** ([AAAI author kit](https://aaai.org/authorkit26-1/)). All documents must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
 
-For more complete information about the application procedure, please refer to this link: </calls/dc_call>
+For more complete information about the application procedure, please refer to the [Doctoral Consortium call]({{< relref "calls/dc_call.md" >}}).
 
 
 ### Review and Selection (DC Mentoring Program)
@@ -140,7 +140,7 @@ To be considered for the LaunchPad Workshop, applicants will be asked to submit 
 
 Please prepare the personal statement and research statement using the [**AAAI/ICAPS paper format**](https://aaai.org/authorkit26-1/). All materials must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
 
-For more complete information about the application procedure, please refer to this link: </calls/launchpad_call>
+For more complete information about the application procedure, please refer to the [Launchpad call]({{< relref "calls/launchpad_call.md" >}}).
 
 
 ### Review and Selection (LaunchPad)
