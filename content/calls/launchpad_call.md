@@ -63,7 +63,9 @@ To be considered for the LaunchPad Workshop, applicants are asked to submit
 
 ## Formatting and Submission
 
-The Personal Statement and Research Statement should be formatted using the **ICAPS 2026 author kit** (AAAI-based format, as used for ICAPS 2026 papers). All documents must be submitted in a **single PDF file**.
+The Personal Statement and Research Statement must follow the **ICAPS 2026 formatting instructions** and be prepared with the [**AAAI 2026 author kit**](https://aaai.org/authorkit26-1/). Inclusion of the AAAI reproducibility checklist is **not required**.
+
+All documents must be submitted in a **single PDF file**.
 
 Applications are not anonymous: please include your name and affiliation on all documents.
 

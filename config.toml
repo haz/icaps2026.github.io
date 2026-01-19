@@ -77,9 +77,9 @@ languageCode = 'en_US'
  [[menu.main]]
    identifier = "DC+Launchpad"
    name = "Doctoral Consortium & Launchpad"
-   url = "/DC+Launchpad/icaps_2026_dc_launchpad.md"
+   url = "/DC+Launchpad/icaps_2026_dc_launchpad"
    parent = "students"
-   weight = 100
+   weight = 200
    [menu.main.params]
       target = "_blank"
       rel = "noopener noreferrer"

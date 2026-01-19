@@ -86,7 +86,7 @@ To apply for the DC Mentoring Program, students will be asked to submit a **sing
 - An **enrollment letter** from the PhD advisor, program director, or school administration confirming enrollment in a PhD program.  
 - **Optional material**, such as an exemplary publication and a list of potential mentors.
 
-Please prepare the dissertation abstract using the **AAAI/ICAPS paper format** (AAAI author kit). All documents must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
+Please prepare the dissertation abstract using the **AAAI/ICAPS paper format** ([AAAI author kit](https://aaai.org/authorkit26-1/)). All documents must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
 
 For more complete information about the application procedure, please refer to this link: </calls/dc_call>
 
@@ -138,7 +138,7 @@ To be considered for the LaunchPad Workshop, applicants will be asked to submit 
 - **Curriculum Vitae (CV)** including university, country, current study program, and (optionally) prior publications or research projects.  
 - **Optional advisor letter** indicating whether a faculty member can help support travel and lodging.
 
-Please prepare the personal statement and research statement using the **AAAI/ICAPS paper format**. All materials must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
+Please prepare the personal statement and research statement using the [**AAAI/ICAPS paper format**](https://aaai.org/authorkit26-1/). All materials must be submitted in **PDF** format. Applications are **not anonymous**; include your name and affiliation. See below for the submission link.
 
 For more complete information about the application procedure, please refer to this link: </calls/launchpad_call>
 

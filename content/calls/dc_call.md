@@ -49,7 +49,7 @@ To participate in the Mentoring Program, an application is required. Applicants 
 
 ## Formatting and Submission
 
-The dissertation abstract and CV should be formatted using the same author kit as ICAPS 2026 main track submissions (AAAI-based ICAPS 2026 format; details and templates will be provided on the ICAPS 2026 website).
+The dissertation abstract and CV must follow the **ICAPS 2026 formatting instructions** and be prepared with the [**AAAI 2026 author kit**](https://aaai.org/authorkit26-1/). Inclusion of the AAAI reproducibility checklist is **not required**.
 
 The complete application must be submitted as a single PDF file. Applications are not anonymous; please include your name and affiliation on all documents.
 
