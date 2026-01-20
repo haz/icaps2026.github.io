@@ -74,6 +74,15 @@ languageCode = 'en_US'
    [menu.main.params]
       target = "_blank"
       rel = "noopener noreferrer"
+ [[menu.main]]
+   identifier = "DC+Launchpad"
+   name = "Doctoral Consortium & Launchpad"
+   url = "/DC+Launchpad/icaps_2026_dc_launchpad"
+   parent = "students"
+   weight = 200
+   [menu.main.params]
+      target = "_blank"
+      rel = "noopener noreferrer"
 #  [[menu.main]]
 #    identifier = "dc"
 #    name = "Doctoral Consortium"
@@ -162,6 +171,18 @@ languageCode = 'en_US'
   url = "/calls/shadow_pc"
   parent = "calls"
   weight = 20
+[[menu.main]]
+  identifier = "call_DC"
+  name = "Call for Doctoral Consortium"
+  url = "/calls/dc_call"
+  parent = "calls"
+  weight = 30
+[[menu.main]]
+  identifier = "call_launchpad"
+  name = "Call for LaunchPad Workshop"
+  url = "/calls/launchpad_call"
+  parent = "calls"
+  weight = 40    
 # [[menu.main]]
 #   identifier = "previously_published_papers"
 #   name = "Previously Published Papers Track"
