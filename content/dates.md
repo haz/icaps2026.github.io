@@ -10,14 +10,15 @@ All important dates will be announced here. The reference timezone for all deadl
 anywhere in the world.
 
 ## 2025
-- **Fall 2025**: Submission site opens
-- **December 2, 2025:** Abstracts due
-- **December 8, 2025:** Full papers due
+- ~~Fall 2025~~: Submission site opens
+- ~~December 2, 2025:~~ Abstracts due
+- ~~December 8, 2025:~~ Full papers due
 
 ## 2026
 - **February 2-4, 2026:** Author response period
 - **February 8, 2026**: Workshop proposals due
 - **February 20, 2026:** Notification of acceptance
+- **March 2, 2026:** LaunchPad Program applications due
 <!--- February 5 to February 28, 2025 - Discussion phase
 - March 31, 2025 - Workshop acceptance notification
 - 15 April 2025 - Workshops materials online
