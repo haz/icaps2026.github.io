@@ -19,6 +19,7 @@ anywhere in the world.
 - **February 8, 2026**: Workshop proposals due
 - **February 20, 2026:** Notification of acceptance
 - **March 2, 2026:** LaunchPad Program applications due
+- **March 2, 2026:** Doctoral Consortium applications due
 <!--- February 5 to February 28, 2025 - Discussion phase
 - March 31, 2025 - Workshop acceptance notification
 - 15 April 2025 - Workshops materials online
