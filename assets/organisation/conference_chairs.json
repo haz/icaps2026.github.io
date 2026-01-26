@@ -157,6 +157,11 @@
                     "name": "Sarah Keren",
                     "institution": "Technion",
                     "country": "Israel"
+                },
+                {
+                    "name": "Eva Onaindia",
+                    "institution": "Polytechnic University of Valencia",
+                    "country": "Spain"
                 }
             ]
         },
@@ -180,6 +185,11 @@
             "position": "System Demo Chair",
             "email": "",
             "people": [
+                {
+                    "name": "Arthur Bit-Monnot",
+                    "institution": "INSA Toulouse",
+                    "country": "France"
+                },
                 {
                     "name": "Christian Muise",
                     "institution": "Queen's University",
