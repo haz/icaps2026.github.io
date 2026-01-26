@@ -1,3 +1,8 @@
+---
+title: "LaunchPad Workshop"
+date: 2022-09-29T13:38:14+02:00
+draft: false
+---
 # ICAPS 2026 LaunchPad Workshop – Call for Applications
 
 In addition to the Doctoral Consortium, ICAPS 2026 will host the LaunchPad Workshop, a program designed for undergraduate and Master’s students interested in automated planning and scheduling. ICAPS 2026 will be held in Dublin, Ireland, June 27 – July 2, 2026.
