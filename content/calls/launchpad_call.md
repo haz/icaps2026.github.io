@@ -100,7 +100,7 @@ Students who require an early decision for visa purposes will be able to contact
 All deadlines will use **UTC-12** as the reference timezone (i.e., the deadline has not passed as long as there is still time anywhere in the world). Final dates will be announced on the ICAPS 2026 “Dates” and LaunchPad pages.
 
 - **Application submission deadline:** March 2, 2026  
-- **Notification date:** TBA  
+- **Notification date:**  March 27, 2026
 - **LaunchPad Workshop at ICAPS 2026:** June 27, 2026  
 
 ---
