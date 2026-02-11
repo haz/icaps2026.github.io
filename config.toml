@@ -166,6 +166,12 @@ languageCode = 'en_US'
   parent = "calls"
   weight = 10
 [[menu.main]]
+  identifier = "previously_published_research_track"
+  name = "Previously Published Research Track"
+  url = "/calls/previously_published_research"
+  parent = "calls"
+  weight = 10
+[[menu.main]]
   identifier = "call_shadow_pc"
   name = "Call for Shadow PC Members"
   url = "/calls/shadow_pc"
@@ -182,7 +188,7 @@ languageCode = 'en_US'
   name = "Call for LaunchPad Workshop"
   url = "/calls/launchpad_call"
   parent = "calls"
-  weight = 40    
+  weight = 40
 # [[menu.main]]
 #   identifier = "previously_published_papers"
 #   name = "Previously Published Papers Track"
