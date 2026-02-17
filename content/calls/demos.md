@@ -11,7 +11,7 @@ In recent years, interest in planning has expanded beyond traditional ICAPS meth
 
 To foster meaningful discussion, we encourage all submissions to address the following aspects:
 
-- **Robustness**: How does the system ensure that actions are applied correctly, and that plans achieve their goals? If there are no explicit guarantees, how does the approach handle errors across different scenarios? <!-- An action is applied correctly if the state satisfies the preconditions for safe execution and reliably leads to the expected or possible results in cases of non-deterministic or probabilistic effects -->
+- **Robustness**: How does the system ensure that actions are applied correctly, and that plans achieve their goals? If there are no explicit guarantees, how does the approach handle errors across different scenarios?
 - **Generalization**: How adaptable are the methods to unseen situations or new domains?
 - **Scalability**: How well do the methods perform as the problem size increases?
 - **Deployment Effort**: What are the practical considerations for using the approach in this context, including symbolic modeling, hyperparameter tuning, data requirements, and computational costs? If a pre-trained model is used, what is the effort required to adapt it to a specific domain?
@@ -21,21 +21,23 @@ As a reference, AI planning methods published in the ICAPS main track are genera
 While ICAPS has traditionally emphasized methods with strong guarantees in these aspects, we welcome submissions that introduce alternative strengths, such as adaptability and learning from experience. By welcoming demonstrations using alternative methods, we aim to enrich the planning community’s understanding of these challenges.
 
 ## Submission Instructions
-Potential exhibitors should submit their applications via [Easychair](...)
+Potential exhibitors should submit their applications via a short abstract on Easychair (details coming soon).
 
-The submission should consist of an extended abstract of no more than two pages using the latest AAAI template. This should include the title of the proposed demonstration, the list of authors and their affiliations, and an abstract of up to 250 words. It should describe the technical content of the demonstration, with the appropriate credits and references. Authors may upload supplementary material to describe any non-standard hardware or software requirements, or other requested logistical arrangements. We plan to provide for each demonstration a table, chairs, poster board, power strip, and a large display, but will try to accommodate special requests.
+The submission should consist of an extended abstract of no more than two pages using the latest [AAAI template](https://aaai.org/conference/aaai/aaai-26/submission-instructions/). This should include the title of the proposed demonstration, the list of authors and their affiliations, and a shorter abstract of up to 250 words. It should describe the technical content of the demonstration, with the appropriate credits and references. Authors may upload supplementary material to describe any non-standard hardware or software requirements, or other requested logistical arrangements. For each demonstration we plan to provide a table, chairs, poster board, power strip, and a large display, but will try to accommodate special requests.
 
-The extended abstract must include a link to a video file no more than 10 minutes long, hosted on a public service that allows streaming or downloading. The video of the demonstration is as important as the extended abstract for evaluating the suitability and merit of the proposed demonstration.
+The extended abstract must include a link to a video that is no more than 10 minutes long, hosted on a public service that allows streaming or downloading. The video of the demonstration is as important as the extended abstract for evaluating the suitability and merit of the proposed demonstration.
 
 The extended abstracts and videos for accepted demonstrations will be available to conference participants and will be archived on the conference website.
 
+Submissions will be evaluated based on their novelty, scientific or industrial contributions’ relevance to the conference theme and participants, and presentation. Decisions on acceptance will be made by the System Demonstrations Program Chairs soon after the submission deadline, and further feedback from revieweres will be solicited and shared two weeks after the notification of acceptance.
 
 ## Summary of Important Dates
-- Submission Deadline: March 23rd.
-- Early Notification: March 27th.
+- Submission Deadline: March 31st.
+- Early Notification: April 3rd.
+- Final Feedback: April 17th.
 
 ## System Demo Program Chairs
-- Christian Muise, Queens's University (christian.muise@gmail.com)
+- Christian Muise, Queens's University (christian.muise@queensu.ca)
 - Arthur Bit-Monnot, LAAS-CNRS, (abitmonnot@laas.fr)
 
 Please direct all questions about the demonstrations program to the system demonstrations chairs.
